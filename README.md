@@ -1,0 +1,2 @@
+# autoit
+autoit hazır scriptler
